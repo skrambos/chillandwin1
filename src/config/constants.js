@@ -7,7 +7,7 @@ const NETWORKS = {
   DEVNET: {
     NETWORK: 'devnet',
     PROGRAM_ID: 'ELkcDMQmqZ5ziEZ4bRhj8hFvb9RQb1Vv3mvHgAgrNbYV',    // Our lottery's brain address (smart contract) 🧠D
-    LOTTERY_ADDRESS: '8HKTihfJPa9ox6fYfZgkphVM9ARTnnbEs2ZbG4TknuEE', // The actual lottery - where the magic happens ✨
+    LOTTERY_ADDRESS: '5DVQSf3m5k9MP3mNLrL5BkHCfXTnxaGNqVg72kaC2AyU', // The actual lottery - where the magic happens ✨
     TREASURY_ADDRESS: 'DsVW3LGHi8FHRhy3yPzjX6WbgZvfFSZ7Dn4oKquHC8ok', // Treasury wallet for fees and stuff 💰
     RPC_ENDPOINT: 'https://api.devnet.solana.com',                    // How we talk to Solana (devnet edition) 🗣️
   },
